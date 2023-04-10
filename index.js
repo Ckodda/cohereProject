@@ -1,5 +1,5 @@
 import cohere from 'cohere-ai';
-// const cohere = require('cohere-ai');
+
 cohere.init('U8mpI91Yu1IQnjo1ktVyvhbmpF5wiormpB1yMPt4')
 
 
